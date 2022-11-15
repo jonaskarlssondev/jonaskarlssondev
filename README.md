@@ -1,4 +1,14 @@
-### Hi there 👋
+### Heyo!
+I am Jonas, a developer and fellow nerd based in Scandinavia.
+
+Currently enjoying messing around with golang and react :metal:
+
+Consultant me spends my day head deep into a c# and angular kubernetes cluster.
+
+Peace
+:v:
+
+
 
 <!--
 **jonaskarlssondev/jonaskarlssondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
