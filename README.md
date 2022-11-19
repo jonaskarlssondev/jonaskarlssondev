@@ -3,7 +3,7 @@ I am Jonas, a developer and fellow nerd based in Scandinavia.
 
 Currently enjoying messing around with golang and react :metal:
 
-Consultant me spends my day head deep into a c# and angular kubernetes cluster.
+Consultant me spends my day deep into a c# and angular kubernetes cluster.
 
 Peace
 :v:
