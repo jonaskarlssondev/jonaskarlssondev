@@ -4,7 +4,7 @@ I am Jonas, a developer and fellow nerd based in Scandinavia.
 Currently enjoying messing around with golang and react :metal:
 
 Peace
-:v:
+✌️
 
 
 
